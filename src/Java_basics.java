@@ -56,8 +56,8 @@ public class Java_basics {
 
         */
 
-        inputTaking();
-        swapNumUsingTemp();
+//        inputTaking();
+//        swapNumUsingTemp();
 
         /*
         ---------operators---------
@@ -71,7 +71,6 @@ public class Java_basics {
         --i -> change and use
         i-- -> use then change
         */
-
     }
     /* check1 -->done */
 }
