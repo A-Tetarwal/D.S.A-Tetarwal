@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cad67b8-7c56-4a1f-bb8a-fa4848b70faf" name="Changes" comment="made changes">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop_questions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whichIsGreater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_printPatterns.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_basics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop_questions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop_questions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +51,7 @@
   "keyToString": {
     "Application.Java_basics.executor": "Run",
     "Application.if_else.executor": "Run",
+    "Application.loop_printPatterns.executor": "Run",
     "Application.loop_questions.executor": "Run",
     "Application.loops.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -107,6 +105,17 @@
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="check1" />
