@@ -76,15 +76,15 @@ public class Arrays {
         System.out.println(sum);
     }
 
-    static void maxValueInArray(){
+    static int maxValueInArray(int[] array){
         int[] arr = {1,5,3};
         int max=0;
-        for (int maxi: arr){
+        for (int maxi: array){
             if (max<=maxi){
                 max=maxi;
             }
         }
-        System.out.println(max);
+        return max;
     }
 
     static int basic_search(){
