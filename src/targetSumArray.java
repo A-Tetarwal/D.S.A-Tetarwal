@@ -51,7 +51,17 @@ public class targetSumArray {
         return secondMax;
     }
 
+    static void firstValueRepeated(int[] array){
 
+        for (int i=0; i< array.length; i++){
+            for (int j=i+1; j< array.length; j++){
+                if (array[i]==array[j]){
+                    System.out.println("first value being repeated: "+array[i]);
+                    return;
+                }else System.out.println("no val being repeated");
+            }
+        }
+    }
 
     public static void main(String[] args) {
         int[] array1 = {1,2,3,4,5,6,2,3};
@@ -59,6 +69,7 @@ public class targetSumArray {
         int[] array3 = {1,4,5,6,3};
         int[] array4 = {1,2,3,4,2,1,3};
         int[] array5 = {9,8,9,6,9,5,8};
+        int[] array6 = {1,5,3,4,6,3,4};
 //        int pairVal = targetSum1(array2);
 //        System.out.println(pairVal);
 
@@ -68,7 +79,9 @@ public class targetSumArray {
 //        boolean uniqueValue= ifUnique(array4);
 //        System.out.println(uniqueValue);
 
-        int secondMaxie = secondLargest(array5);
-        System.out.println("second max element in arrary5 is: "+ secondMaxie);
+//        int secondMaxie = secondLargest(array5);
+//        System.out.println("second max element in arrary5 is: "+ secondMaxie);
+
+        firstValueRepeated(array6);
     }
 }
