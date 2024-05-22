@@ -27,15 +27,58 @@ public class moreOnArrays {
         for (int i= array.length-1; i>=0; i--){
             System.out.print(array[i]+ " ");
         }
+    }
+
+    static void reverseArraySelf(int[] array){
 //        reversing the og array
+        System.out.println();
         int j= array.length-1;
-        for (int i = 0; i< array.length; i++){
+        for (int i = 0; i<j; i++, j--){
             int temp=array[j];
             array[j] = array[i];
             array[i]=temp;
-            j--;
-            System.out.print(array[i]+" ");
         }
+        // printing above array
+        for (int arrVal: array){
+            System.out.print(arrVal+" ");
+        }
+    }
+
+    static void rotateArray(int[] array){
+        System.out.println("enter times rotation");
+        int timesRotation = Java_basics.sc.nextInt()% array.length;
+
+        int j=0;
+        for (int i = 0; i< array.length; i++){
+            if (i!= array.length-1) {
+//                array[i + timesRotation] = array[i];
+                j=i+timesRotation;
+//                System.out.print(array[j]);
+            }else {
+                j= i+timesRotation-1;
+//                System.out.print(array[j]);
+            }
+            System.out.print(array[j]);
+        }
+    }
+
+    static void rotateArraySelf(int[] array ,int timesRotation){
+        timesRotation%= array.length;
+        int j= array.length-1;
+        for (int i= array.length-timesRotation; i< j; i++, j--){
+            int temp=array[j];
+            array[j] = array[i];
+            array[i]=temp;
+        }
+
+        j=array.length-timesRotation-1;
+        for (int i=0; i< j; i++, j--){
+            int temp=array[j];
+            array[j] = array[i];
+            array[i]=temp;
+        }
+
+        reverseArraySelf(array);
     }
 
     public static void main(String[] args) {
@@ -55,6 +98,10 @@ public class moreOnArrays {
             array[i] = Java_basics.sc.nextInt();
         }
 
-        reverseTheArray(array);
+        System.out.println("enter times rotation");
+        int timesRotation = Java_basics.sc.nextInt();
+
+//        reverseTheArray(array);
+        rotateArraySelf(array, timesRotation);
     }
 }
