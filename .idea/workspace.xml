@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cad67b8-7c56-4a1f-bb8a-fa4848b70faf" name="Changes" comment="made changes">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/presentQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/solution_findMedianSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/twoPointers/sort01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moreOnArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moreOnArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bitwiseOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/if_else.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop_printPatterns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop_questions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moreOnArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/targetSumArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whichIsGreater.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +71,9 @@
     "Application.loops.executor": "Run",
     "Application.moreArrayQs.executor": "Run",
     "Application.moreOnArrays.executor": "Run",
+    "Application.newLeetCodeQ.executor": "Run",
+    "Application.presentQuery.executor": "Run",
+    "Application.solution_findMedianSortedArrays.executor": "Run",
     "Application.targetSumArray.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -69,6 +83,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="One.basics" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
