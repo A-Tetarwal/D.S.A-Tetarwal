@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cad67b8-7c56-4a1f-bb8a-fa4848b70faf" name="Changes" comment="made changes">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/presentQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/solution_findMedianSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/twoPointers/sort01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/twoPointers/sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_basics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bitwiseOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if_else.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop_printPatterns.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop_questions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moreOnArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/targetSumArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/whichIsGreater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/twoPointers/sort01.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +55,7 @@
     "Application.Arrays.executor": "Run",
     "Application.Java_basics.executor": "Run",
     "Application.bitwiseOperators.executor": "Run",
+    "Application.finale.executor": "Run",
     "Application.if_else.executor": "Run",
     "Application.loop_printPatterns.executor": "Run",
     "Application.loop_questions.executor": "Run",
