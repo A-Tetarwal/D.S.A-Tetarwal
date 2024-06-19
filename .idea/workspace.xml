@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cad67b8-7c56-4a1f-bb8a-fa4848b70faf" name="Changes" comment="made changes">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/twoPointers/sort.java" afterDir="false" />
+    <list default="true" id="7cad67b8-7c56-4a1f-bb8a-fa4848b70faf" name="Changes" comment="updates">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/prefix_sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/twoPointers/sort01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/twoPointers/sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/twoPointers/sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +63,7 @@
     "Application.moreArrayQs.executor": "Run",
     "Application.moreOnArrays.executor": "Run",
     "Application.newLeetCodeQ.executor": "Run",
+    "Application.prefix_sum.executor": "Run",
     "Application.presentQuery.executor": "Run",
     "Application.solution_findMedianSortedArrays.executor": "Run",
     "Application.targetSumArray.executor": "Run",
@@ -78,6 +79,32 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="One.basics" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="sort.java" />
+      <command value="open D.S.A-Tetarwal" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="prefix_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.prefix_sum" />
+      <module name="D.S.A-Tetarwal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.prefix_sum" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -128,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716219124536</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updates">
+      <option name="closed" value="true" />
+      <created>1718724074516</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718724074517</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +181,7 @@
     <MESSAGE value="check1" />
     <MESSAGE value="check2" />
     <MESSAGE value="made changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="made changes" />
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
 </project>
