@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cad67b8-7c56-4a1f-bb8a-fa4848b70faf" name="Changes" comment="updates">
+      <change afterPath="$PROJECT_DIR$/src/SubArrays/part1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twoDimArrays/addTwoMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twoDimArrays/multiplyMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Arrays/prefix_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/prefix_sum.java" afterDir="false" />
     </list>
@@ -49,31 +52,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Java_basics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bitwiseOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.finale.executor&quot;: &quot;Run&quot;,
-    &quot;Application.if_else.executor&quot;: &quot;Run&quot;,
-    &quot;Application.loop_printPatterns.executor&quot;: &quot;Run&quot;,
-    &quot;Application.loop_questions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.loops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.moreArrayQs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.moreOnArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.newLeetCodeQ.executor&quot;: &quot;Run&quot;,
-    &quot;Application.prefix_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.presentQuery.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solution_findMedianSortedArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.targetSumArray.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Arrays.executor": "Run",
+    "Application.Java_basics.executor": "Run",
+    "Application.addTwoMatrix.executor": "Run",
+    "Application.bitwiseOperators.executor": "Run",
+    "Application.finale.executor": "Run",
+    "Application.if_else.executor": "Run",
+    "Application.loop_printPatterns.executor": "Run",
+    "Application.loop_questions.executor": "Run",
+    "Application.loops.executor": "Run",
+    "Application.moreArrayQs.executor": "Run",
+    "Application.moreOnArrays.executor": "Run",
+    "Application.newLeetCodeQ.executor": "Run",
+    "Application.part1.executor": "Run",
+    "Application.prefix_sum.executor": "Run",
+    "Application.presentQuery.executor": "Run",
+    "Application.solution_findMedianSortedArrays.executor": "Run",
+    "Application.targetSumArray.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="One.basics" />

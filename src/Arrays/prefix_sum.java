@@ -72,6 +72,7 @@ public class prefix_sum {
         equal_sum_subarray check1 = new equal_sum_subarray();
         boolean checked = check1.equal_sum_subarray_optimized(new int[]{5,3,2,6,3,1});
         System.out.println(checked);
+        System.out.println(check1.equal_sum_subarray_optimized(new int[]{1,2,3,4,5}));
     }
 }
 
