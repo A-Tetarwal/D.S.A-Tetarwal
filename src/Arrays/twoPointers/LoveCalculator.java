@@ -40,8 +40,8 @@ public class LoveCalculator {
     }
 
     public static void main(String[] args) {
-        String name1 = "ankita"; // 113221 = 235 = 73
-        String name2 = "ashish"; // 3112122 = 5322 = 75
+        String name1 = "neha"; // 113221 = 235 = 73
+        String name2 = "ashish";
         int lovePercentage = calculateLovePercentage(name1, name2);
         System.out.println("Love %: " + lovePercentage + "%");
     }
