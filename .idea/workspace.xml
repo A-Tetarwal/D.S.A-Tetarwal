@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cad67b8-7c56-4a1f-bb8a-fa4848b70faf" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/src/SubArrays/part1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoDimArrays/addTwoMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoDimArrays/multiplyMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/twoPointers/LoveCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/prefix_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/prefix_sum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Arrays.executor": "Run",
+    "Application.Arrays.twoPointers.Solution.executor": "Run",
     "Application.Java_basics.executor": "Run",
+    "Application.LoveCalculator.executor": "Run",
+    "Application.Solution.executor": "Run",
     "Application.addTwoMatrix.executor": "Run",
     "Application.bitwiseOperators.executor": "Run",
     "Application.finale.executor": "Run",
@@ -91,6 +91,13 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration name="Solution" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="D.S.A-Tetarwal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="prefix_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.prefix_sum" />
       <module name="D.S.A-Tetarwal" />
