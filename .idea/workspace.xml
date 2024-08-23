@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cad67b8-7c56-4a1f-bb8a-fa4848b70faf" name="Changes" comment="Love Calculator">
-      <change afterPath="$PROJECT_DIR$/src/HashMap/HashMapBasics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +89,7 @@
       <command value="open D.S.A-Tetarwal" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager">
     <configuration name="Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="D.S.A-Tetarwal" />
